@@ -1,0 +1,68 @@
+Summary of the Exploit: Multi-Accessory Buff Issue for Apple Users
+
+This exploit allows Apple device users to gain damage buffs beyond the game’s intended design, potentially disrupting game balance.
+
+Exploit Description
+
+In the Chinese version of Plants vs. Zombies 2, plants are designed to have multiple attack attributes such as fire, electricity, and freezing. The game includes an accessory system, where accessories provide various buffs to plants. Under normal rules, each plant can equip only one accessory per game and enjoy its corresponding buff.
+
+This exploit allows users to manage multiple game accounts under the same user ID (UID) and enables the same plant to benefit from multiple accessories simultaneously.
+
+Accessory Details and Effects
+
+Premium Accessories (Purchased at approximately 10 USD each):
+	•	Purple Gloves: Increases attack power, attack speed, and generates plant food (Chlorophyll) when a zombie is defeated.
+	•	Energy Battery: Enhances electric attack damage and reduces cooldown times.
+	•	Solar Helmet: Boosts health, enables automatic health regeneration, and stuns zombies chewing on plants.
+	•	Metal Slingshot: Significantly increases attack power and provides additional damage proportional to plant rest time.
+
+Free Accessories:
+	•	Rubber Duck Swim Ring: Allows plants to be planted directly on water without requiring a lily pad.
+	•	Golden Fertilizer: Increases attack power.
+
+Effect Examples
+
+Through this exploit, users can enable a single plant to benefit from all of the above accessories simultaneously. In extreme cases, this can significantly enhance a plant’s attack power, electric damage, and health while granting the following abilities:
+	1.	Generate plant food (Chlorophyll) upon defeating zombies.
+	2.	Automatically regenerate health.
+	3.	Reduce cooldown times and speed up planting.
+	4.	Stun zombies chewing on plants.
+	5.	Cause greater damage after longer rest times.
+
+Under normal game mechanics, these accessory effects should not stack on the same plant. However, this exploit bypasses those limitations, leading to significant disruptions in game balance.
+
+Analysis of the Exploit’s Origins
+
+In earlier versions, the Chinese version of Plants vs. Zombies 2 retained the multi-account design from its international counterpart, allowing users to create multiple game accounts under the same UID. After Talkweb took over the game’s operations, this feature was hidden in a later update but was not completely removed, possibly leaving a backdoor for exploitation.
+
+A Baidu Tieba user named “年念go” publicly shared the so-called “account stacking” technique, which garnered widespread attention. In their post, they described the process as follows:
+
+	“How do you stack accounts? You need two devices. Device A is linked to your old account, and on Device B, install Plants vs. Zombies 2 and create a new account. Both devices must have Weibo installed. Link your old account to your Weibo account on Device A. On Device B, log in to Weibo and transfer your game account. Once it says the transfer is successful, close the game completely and reopen it. The old account on Device A will now have the new account added (stacked). You can stack up to four accounts to form a five-layer stack.”
+
+Threats and Risks
+
+After disclosing this account-stacking exploit, “年念go” received threats from certain community members. Below is an excerpt from the threats they encountered:
+
+	“The ultimate result of you exposing this is not that everyone will learn to stack accounts, but that the exploit will get fixed. As for other consequences, you can figure that out yourself. We’re not threatening you, just giving you a reminder. Money is not the issue—we don’t care about this little bit of cash. The ones coming after you won’t be us but other independent stackers. Good luck avoiding attacks after posting your video. There’s nothing else to say. If I dare to do this, I don’t care about reputation in this community. And you won’t be able to trace our techniques. When you become the target of collective attacks, it’s none of my business.”
+
+These threats highlight the risks faced by individuals who disclose such exploits, revealing not only the community’s resistance to exposure but also the potential for gray-market trading fueled by the exploit.
+
+Talkweb’s History of Controversy
+
+In the past, Talkweb faced significant criticism for security issues in the game’s “Battle Mode.” The leaderboard system in this mode exposed users’ IDs (UIDs), leading to privacy concerns. According to players, this mode might have been a legacy system retained from Shanghai PopCap, and Talkweb may have lacked the technical expertise to fix it, opting instead to shut it down.
+
+Despite promising to “spare no effort” to compensate players, Talkweb only provided small amounts of items and plant fragments, leading to accusations of insincerity. The phrase “spare no effort” became a sarcastic remark among players, symbolizing dissatisfaction with the company’s handling of issues.
+
+Huawei, as Talkweb’s partner, may have supported the game’s promotion, such as server deployment or marketing strategies. However, there is no evidence to suggest Huawei’s involvement in the exploit itself.
+
+Call for Action: Protecting Player Rights
+
+The prolonged existence of this exploit has negatively impacted game balance and user experience. We strongly urge Talkweb, as the game’s operator, to adopt a responsible attitude toward player feedback and take the following actions:
+	1.	Thoroughly Investigate the Exploit: Identify the root causes and completely resolve the issue to prevent further abuse.
+	2.	Review the Accessory System: Conduct a comprehensive review of accessory properties and functionality to ensure they align with the game’s balance requirements.
+	3.	Enhance Transparency and Communication: Use official channels to explain the repair plan to players and provide reasonable compensation to restore trust.
+
+Notes
+	1.	Chlorophyll is an in-game consumable item that allows plants to release enhanced skills or reset cooldown times.
+	2.	Original post: https://web.archive.org/web/20241231102652/https://tiebac.baidu.com/p/9376369387 Baidu Tieba link.
+	3.	Video source: https://www.bilibili.com/video/BV1nL6LYJELK Bilibili discussion. The discussion includes screenshots of threats received by “年念go” after disclosing the exploit.
