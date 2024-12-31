@@ -5,15 +5,16 @@ Welcome to ZombieTalk, a repository dedicated to documenting and analyzing bugs,
 
 Key Topics
 
-1. Reproducing Previous Endless Zone Formations via Cloud Save Exploit
+1.Reproducing Previous Endless Zone Formations via Cloud Save Exploit
 
 This exploit allows users to replicate formations from previous Endless Zone challenges using cloud saves. By manipulating save files across devices, players can restore prior setups, potentially gaining an unintended strategic advantage.
 
-2. Multi-Accessory Buff Exploit for Apple Users
+2.Multi-Accessory Buff Exploit for Apple Users
 
 This exploit enables plants to receive buffs from multiple accessories simultaneously, bypassing the game’s intended restriction of one accessory per plant. The issue arises from managing multiple accounts under a single user ID.
 
 Important Notice
+
 1.Independent Project: ZombieTalk is an independent, fan-made repository and is not affiliated with PopCap, EA, Talkweb, or any other official entity associated with Plants vs. Zombies 2.
 
 2.Educational Intent Only: The content in this repository is provided solely for educational and analytical purposes, aiming to document and understand in-game mechanics and unintended behaviors.
