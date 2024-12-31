@@ -14,6 +14,8 @@ This exploit allows users to replicate formations from previous Endless Zone cha
 This exploit enables plants to receive buffs from multiple accessories simultaneously, bypassing the game’s intended restriction of one accessory per plant. The issue arises from managing multiple accounts under a single user ID.
 
 Important Notice
-	•	Independent Project: ZombieTalk is an independent, fan-made repository and is not affiliated with PopCap, EA, Talkweb, or any other official entity associated with Plants vs. Zombies 2.
-	•	Educational Intent Only: The content in this repository is provided solely for educational and analytical purposes, aiming to document and understand in-game mechanics and unintended behaviors.
-	•	No Harmful Use: Any misuse of this information, especially for malicious purposes, is strictly discouraged and goes against the intent of this project.
+1.Independent Project: ZombieTalk is an independent, fan-made repository and is not affiliated with PopCap, EA, Talkweb, or any other official entity associated with Plants vs. Zombies 2.
+
+2.Educational Intent Only: The content in this repository is provided solely for educational and analytical purposes, aiming to document and understand in-game mechanics and unintended behaviors.
+
+3.No Harmful Use: Any misuse of this information, especially for malicious purposes, is strictly discouraged and goes against the intent of this project.
